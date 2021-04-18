@@ -1,7 +1,7 @@
 public class IfElseSwitch {
     public static void main(String[] args) {
 
-        int n = 2;
+        int n = 11;
 
         String ret = n + "对应的汉字是";
 

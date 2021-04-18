@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LetsJava.iml" filepath="$PROJECT_DIR$/.idea/LetsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/14. 游戏小程序代码分析/adventure-of-the-proton/adventure-of-the-proton.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/14. 游戏小程序代码分析/adventure-of-the-proton/adventure-of-the-proton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/ppttools.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/07. Maven 常用命令和插件/code/ppttools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/ppttools (1).iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/08. Intellij 更多功能介绍/code/ppttools (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/06. 一个从 pptx 文件中抽取文字的小工具/code/ppttools (1) (com.geekbang).iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/06. 一个从 pptx 文件中抽取文字的小工具/code/ppttools (1) (com.geekbang).iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code/swagger-spring.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code/swagger-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code-example/swagger-spring (1).iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/15. 使用 Swagger 创建一个Spring Boot 的 Web 服务/code-example/swagger-spring (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/第六章 Java 编程实战/05. 创建一个简单的 Maven 项目/code/usemaven.iml" filepath="$PROJECT_DIR$/第六章 Java 编程实战/05. 创建一个简单的 Maven 项目/code/usemaven.iml" />
+    </modules>
+  </component>
+</project>

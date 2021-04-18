@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/013-程序执行流程之if-else语句/code013/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/014-程序循环之for语句/code014/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/015-代码块和变量的作用域/code015/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/016-程序循环之while语句/code016/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/017-程序执行流程之switch语句/code017/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/018-循环和判断的总结/code018/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第一章 Java编程基础/022-用数组灵活处理成绩/code022/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
